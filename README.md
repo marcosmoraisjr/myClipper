@@ -1,5 +1,5 @@
 # Solutions Clipper
-Este repositório agrega soluções diversas para atendimento de diversas demandas
+Este repositório agrega soluções para diversas demandas.
 
 ## 🚀 Citação
 ```
